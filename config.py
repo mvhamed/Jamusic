@@ -85,7 +85,7 @@ TELEGRAM_AUDIO_URL = "https://telegra.ph/file/5ee75c8b81172a947c9eb.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/5ee75c8b81172a947c9eb.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/5ee75c8b81172a947c9eb.jpg"
 YOUTUBE_IMG_URL = "https://telegra.ph/file/5ee75c8b81172a947c9eb.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/5ee75c8b81172a947c9eb.jpg
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/5ee75c8b81172a947c9eb.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/5ee75c8b81172a947c9eb.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/5ee75c8b81172a947c9eb.jpg"
 
