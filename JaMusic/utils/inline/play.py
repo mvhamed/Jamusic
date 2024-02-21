@@ -63,9 +63,6 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],[
             InlineKeyboardButton(text="𖣂 𝒓𝒆𝒔𝒖𝒎𝒆 𖣂", callback_data=f"ADMIN Resume|{chat_id}"),
             InlineKeyboardButton(text="𖣂 𝒑𝒂𝒖𝒔𝒆 𖣂", callback_data=f"ADMIN Pause|{chat_id}"),
-            InlineKeyboardButton(text="𖣂 𝒓𝒆𝒑𝒍𝒂𝒚 𖣂", callback_data=f"ADMIN Replay|{chat_id}"),
-        ],[
-            InlineKeyboardButton(text="𖣂 𝒔𝒌𝒊𝒑 𖣂", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="𖣂 𝒔𝒕𝒐𝒑 𖣂", callback_data=f"ADMIN Stop|{chat_id}"),
         ],[
             InlineKeyboardButton(text="𝙈𝙪𝙝𝙖𝙢𝙢𝙚𝙙 𝙆𝙝𝙖𝙡𝙞𝙙", url=f"https://t.me/mvhmed"),
@@ -80,9 +77,6 @@ def stream_markup(_, chat_id):
         [
             InlineKeyboardButton(text="𖣂 𝒓𝒆𝒔𝒖𝒎𝒆 𖣂", callback_data=f"ADMIN Resume|{chat_id}"),
             InlineKeyboardButton(text="𖣂 𝒑𝒂𝒖𝒔𝒆 𖣂", callback_data=f"ADMIN Pause|{chat_id}"),
-            InlineKeyboardButton(text="𖣂 𝒓𝒆𝒑𝒍𝒂𝒚 𖣂", callback_data=f"ADMIN Replay|{chat_id}"),
-        ],[
-            InlineKeyboardButton(text="𖣂 𝒔𝒌𝒊𝒑 𖣂", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="𖣂 𝒔𝒕𝒐𝒑 𖣂", callback_data=f"ADMIN Stop|{chat_id}"),
         ],[
             InlineKeyboardButton(text="𝙈𝙪𝙝𝙖𝙢𝙢𝙚𝙙 𝙆𝙝𝙖𝙡𝙞𝙙", url=f"https://t.me/mvhmed"),
